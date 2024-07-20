@@ -8,6 +8,9 @@ DiscordのユーザープロフィールからSpotifyのステータスを取得
 # 実行例
 ![image](https://github.com/user-attachments/assets/79faab14-dc27-46a5-ae81-d9b7b7406821)
 
+# 使用する際について
+一番下の行のYOUR_BOT_TOKENをあなたのbotのトークンに置き換えてご使用ください。
+
 # ガイドライン
 ※２次配布・無断アップロードはおやめください。
 ※本レポジトリに関してご意見などございましたら、[Discordのサポートサーバー](https:discord.gg/DrqxGv44qC)にご連絡ください。
